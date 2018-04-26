@@ -1,7 +1,0 @@
-#Mon Apr 02 22:26:14 ICT 2018
-base.0=C\:\\Users\\warak\\Desktop\\Neramit\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eb5700b6ee96ac10dbdad5bc957825c560273ebc
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\warak\\Desktop\\Neramit\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_647e1c290903e8092b776c4a874828146504aca8\\classes.dex
-base.1=C\:\\Users\\warak\\Desktop\\Neramit\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_647e1c290903e8092b776c4a874828146504aca8
-file.0=C\:\\Users\\warak\\Desktop\\Neramit\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eb5700b6ee96ac10dbdad5bc957825c560273ebc\\classes.dex
